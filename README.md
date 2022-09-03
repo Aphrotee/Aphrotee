@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Temitope
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning C and Python
+- 🔩 I'm proficient in the implementation of Data structures and Algorithms with the C programming language
+- ✍🏾 I'm looking forward to contributing to open-source projects
 - 📫 How to reach me: aphrotemitope37@gmail.com
 
 <!---
